@@ -1,2 +1,1 @@
-# sample 1
-test
+hey!  Buddy
